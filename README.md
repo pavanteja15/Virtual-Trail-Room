@@ -1,1 +1,1 @@
-# Virtual-Trail-Room
+In this project, we have developed a virtual dressing room that allows users to conveniently try on different clothes virtually. This system enables users to visualize how they would appear in various outfits and provides information about their measurements. Additionally, the system automatically suggests the most suitable clothing size based on the user's body measurements.
